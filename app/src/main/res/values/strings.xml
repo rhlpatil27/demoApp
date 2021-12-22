@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DemoApp</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">DemoApp Movies</string>
+    <string name="tab_text_1">Top Rated</string>
+    <string name="tab_text_2">Favourites</string>
 </resources>
